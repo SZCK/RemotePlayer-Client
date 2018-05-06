@@ -1,0 +1,7 @@
+{
+    "require": {
+        "calcinai/phpi": "^0.3.2",
+        "cboden/ratchet": "^0.4.1",
+        "workerman/workerman": "^3.5"
+    }
+}
